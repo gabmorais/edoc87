@@ -8,7 +8,7 @@ This research was conducted in four phases, each incrementally building upon the
 ### Conceptual framework
 The folder [`conceptual_framework`](conceptual_framework) contains the final conceptual framework files, which comprise the definition of the key concepts used in this research and serve as a classification system for our findings. This conceptual framework was initially created from the first literature review on software operations, software dependability and sustainability, and operational aspects of microservices architectures.
 
-We queried [`Google Scholar ](https://scholar.google.com/),[`Science Direct`](https://www.sciencedirect.com/), and [`ACM Digital Library`](https://dl.acm.org/) using the following search chain:
+We queried [`Google Scholar`](https://scholar.google.com/),[`Science Direct`](https://www.sciencedirect.com/), and [`ACM Digital Library`](https://dl.acm.org/) using the following search chain:
 
 ```('software operation' or 'software dependability' or 'software sustainability' or (('microservice' or 'micro-service') and 'operation') ) and ('taxonomy' or 'ontology' or 'framework').```
 
@@ -25,7 +25,7 @@ We conducted a data triangulation analysis, comparing data collected from interv
 
 We also conducted opportunistic literature reviews to link our findings to existing research. On the one hand, we aimed to identify the transferability of our findings, as if a finding was observed elsewhere, it indicated that the finding was transferable to and from our studied case. On the other hand, this literature review supported our efforts in identifying case-specific details, deepening our understanding of the observed facts, and uncovering new ones.
 
-We queried [`Google Scholar ](https://scholar.google.com/),[`Science Direct`](https://www.sciencedirect.com/), and [`ACM Digital Library`](https://dl.acm.org/) using terms extracted from interview and observation minutes, as well as from the questions added to the *questions backlog*. It is worth noting that we initially explored the literature when new questions arose before conducting subsequent interviews and observations.
+We queried [`Google Scholar`](https://scholar.google.com/),[`Science Direct`](https://www.sciencedirect.com/), and [`ACM Digital Library`](https://dl.acm.org/) using terms extracted from interview and observation minutes, as well as from the questions added to the *questions backlog*. It is worth noting that we initially explored the literature when new questions arose before conducting subsequent interviews and observations.
 
 ## Citation
 ```text
