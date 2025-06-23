@@ -20,6 +20,8 @@ We conducted the interview using the open questions below. We asked the particip
 3. Record the answer.
 4. Request precision (if necessary).
 5. Repeat 1-4 while questions remain.
+6. Finish the interview by asking:
+```Is there any other subject you think is essential to share and that has not been mentioned yet? ```
 
 ### Post-interview
 

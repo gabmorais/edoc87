@@ -1,0 +1,44 @@
+Goal, question,target
+Understanding the organization,Could you describe your organization?,all roles
+Understanding the organization,What is the role of your division?,all roles
+Understanding the organization,Could you briefly introduce your role within your team?,all roles
+Understanding the organization,Could you describe the services provided and clients deserved by the systems under your responsibility?,all roles
+Understanding the organization,How is this system operated?,all roles
+Understanding the organization,What is your perception of your system's operational stability?,all roles
+Understanding the organization,Who participates in operational stability decisions, implementation and control?,all roles
+Understanding the organization,Which artifacts are used to support your operational stability? ,all roles
+Understanding the organization,Which challenges do you consider the most significant in your role?,all roles
+Understanding the organization,Which of these challenges has the most significant impact on your job? Why?,all roles
+Understanding the organization,Could you share a recent experience related to this challenge?,all roles
+Understanding the organization,How do you foresee the evolution of this challenge? Would it remain, or is it an occasional, transitory challenge?,all roles
+Understanding the business perspective,What are the business goals that operational stability helps you achieve?,business-process owners
+Understanding the business perspective,What are your operational stability-specific goals?,business-process owners
+Understanding the business perspective, What factors influence your decisions regarding operational stability?,business-process owners
+Understanding the business perspective,Have you established service-level agreements with your users?,business-process owners
+Understanding the business perspective,What are the elements that help you in establishing these agreements?,business-process owners
+Understanding the business perspective,What is the frequency of your service level agreements review?,business-process owners
+Understanding the business perspective,What happens when your operations do not match the service level agreement values?,business-process owners
+Understanding the business perspective,Could you enumerate the three most critical operational stability challenges you face?,business-process owners
+Understanding operational stability processes,Which are the elements that support you in understanding the operational stability of your system?,process owners
+Understanding operational stability processes,What are your operational stability goals?,process owners
+Understanding operational stability processes,What are your concerns when handling stability?,process owners
+Understanding operational stability processes,What is your focus on preventing instability?,process owners
+Understanding operational stability processes, Which actions are conducted to prevent instability?,process owners
+Understanding operational stability processes,What are your operational stability strategy?,process owners
+Understanding operational stability processes,How are current strategies planned and implemented?,process owners
+Understanding operational stability processes,How is operational stability performance measured?,process owners
+Understanding operational stability processes,How is operational stability strategy controlled?,process owners
+Understanding operational stability processes,How do you monitor your systems during operation?,process owners
+Understanding operational stability processes,Does your monitoring support you in future operational stability decisions?,process owners
+Understanding operational stability processes,Do you rely on a specific methodology, method or technique to handle operational stability?,process owners
+Understanding operational stability processes,Which are the three most crucial operational stability challenges you face?,process owners
+Understanding operational stability activities,What is a typical day for operational stability teams?,dev-ops
+Understanding operational stability activities,What happens when an outage happens?,dev-ops
+Understanding operational stability activities,What happens after an outage?,dev-ops
+Understanding operational stability activities,How are current activities planned and implemented?,dev-ops
+Understanding operational stability activities,How are current activities planned and implemented?,dev-ops
+Understanding operational stability activities,Is the operational stability approach structured?,dev-ops
+Understanding operational stability activities, Is a systematic approach used?,dev-ops
+Understanding operational stability activities, Are the operational stability activities preventive or reactive?,dev-ops
+Understanding operational stability activities,Which are the three most crucial operational stability activities you conduct?,dev-ops
+Understanding operational stability activities,Which are the three most crucial operational stability challenges you face?,dev-ops
