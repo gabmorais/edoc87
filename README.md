@@ -15,7 +15,7 @@ We queried [`Google Scholar`](https://scholar.google.com/),[`Science Direct`](ht
 We selected taxonomies, ontologies, conceptual frameworks, and definition-focused papers. We considered works written in the English language and having an explicit definition schema. The file [`references`](conceptual_framework\references.bib) lists the papers selected for the initial conceptual framework.
 
 ### Interviews - Problem Identification and Case Exploration
-The folder [`interviews`](interviews) contains the guidelines we used to conduct interviews. It comprises the initial set of [`questions`](interviews\questions.csv), their knowledge goal, and target role. These initial questions fed the initial [`questions_backlog`](questions_backlog.csv), which serves as a gauge for the saturation indicator of this study. We identified saturation as reached when no new questions emerged.
+The folder [`interviews`](interviews) contains the guidelines we used to conduct interviews. It comprises the initial set of [`questions`](interviews\questions.csv), their knowledge goal, and target role. These initial questions fed the initial [`questions_backlog`](questions_backlog.csv), which serves as a gauge for the saturation indicator of this study. We identified questions by their state: to be asked or answered. We identified saturation as reached when no new questions emerged and all questions in the backlog had a "answered" state.
 
 ### Observations - Process Execution, Exploration, and Data Analysis
 The folder [`observations`](observations) contains the template of the observation journal we used and the minute template.

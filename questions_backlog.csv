@@ -1,0 +1,63 @@
+question,state
+What is expected of you when defining an SLA?,answered	
+What kind of alerts do you use?,answered
+Which are the automatic processes you mentioned?,answered
+How is the automatic process implemented?,answered
+Why are you not aware of the costs and revenues?,answered	
+How is the ITIL framework used? Which practices?,answered
+How has DevOps been implemented?,answered
+How is the provider's dependability assessed?,answered	
+How do you assess the dependability of your modules?,answered	
+Why do you control resource usage at runtime?,answered
+Do you use an automatic process to scale up and down?,answered	
+What is the difference between incident, outage and problem?,answered
+Who handles incidents, outages, and problems?,answered
+Why are problems important?,answered
+How are fixes implemented?,answered
+How do you convey performance assessment?,answered	
+Why testing is difficult?,answered
+How collaboration between services is conducted to define common stability goals and rules?,answered
+Why is collaboration difficult?,answered
+What could be done to cope with these challenges?,answered	
+Why advanced monitoring able to trigger action would be beneficial?,answered
+Why don't you implement them?,answered
+What would be necessary to enhance their implementation?,answered
+What does observability mean for you?,answered
+Which practices from observability do you think would be effective in your context?,answered
+What does stability alignment mean to you?,answered
+How do you think you could achieve it?,answered
+Why may standard methods help?,answered
+Why may projections help?,answered
+Why do you mention a data-driven and statistical approach?,answered	
+Which characteristics a simulation-projection tool should have?,answered
+In what context should such a simulation-projection tool be applied?,answered
+What impact do you expect from using a simulation-projection tool?,answered
+Are standard methods and a simulation-projection tool exclusive? Or used in an ensemble approach?,answered
+How would the organization benefit from a standards approach?,answered
+Which impacts do you expect from using a standard approach when executing the SLA definition process?,answered
+Which goals would be achieved by using a standard approach? By using projection tools?,answered
+Why is dependency identification and runtime architecture a challenge?,answered
+How do you handle this runtime lack of knowledge?,answered
+How does the lack of knowledge influence operational stability?,answered	
+Why are standard methods to recover runtime profiles necessary?,answered
+What is the role of runtime behaviour knowledge in executing the SLA process?,answered	
+Why should predicting future operational behaviour help?,answered
+How is this prediction currently achieved?,answered
+What does criticality mean to you?,answered
+Why is criticality important in the operational process?,answered	
+How do you deal with various criticalities?,answered
+What criticality is considered when defining SLAs?,answered
+Why do existing performance indicators (MTTF, MTTR) seem inappropriate?,answered	
+What do you mean by identifying the operational stability behaviour?,answered
+Do you know what the normal behaviour is?,answered
+How does knowing the normal behaviour help you in achieving reachable SLAs?,answered	
+Why must you predict future behaviour?,answered
+How is this prediction currently achieved?,answered
+What do you mean by disruption point?,answered
+Why is the reliability of resilience mechanisms important?,answered	
+Why is testing them difficult?,answered
+Why would virtualizing assessment help?,answered	
+Why is the usage of real infrastructure an issue?,answered 	
+Why a simulation mechanism could help in this context?,answered
+Why did you mention "having the same process" to characterize the service and, by extension, system behaviour?,answered
+Which benefits do you expect from a standard process to assess the reliability of mechanisms?,answered
